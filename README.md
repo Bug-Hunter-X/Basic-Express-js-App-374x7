@@ -1,0 +1,1 @@
+This repository contains a basic Express.js application. This is a simple example to show how to create a basic Express app.
